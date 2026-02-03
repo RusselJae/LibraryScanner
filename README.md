@@ -3,4 +3,5 @@
 To open the project
 
 - > Open Terminal
-- > type "py scanner.py or python scanner.py"
+- > cd ../../LibraryScanner
+- > type "py scanner.py / python scanner.py / python3 scanner.py"
